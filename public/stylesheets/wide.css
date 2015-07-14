@@ -6,6 +6,10 @@ body {
     content: "Wide Layout";
 }
 
+.avatar {
+    height: 50%;
+}
+
 nav {
     float: left;
     width: 15%;
