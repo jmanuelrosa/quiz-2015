@@ -1,0 +1,19 @@
+# Editor's files
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Logs
+npm-debug.log
+
+# NodeJS & Bower
+node_modules
+bower_components
+
+# Scaffolding
+.sass-cache
+.tmp
+dist
+
+# Generic Files
+.DS_Store

@@ -1,0 +1,6 @@
+# Git Folder
+.git
+
+# NodeJS & Bower
+node_modules
+app/bower_components
